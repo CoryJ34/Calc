@@ -10,7 +10,7 @@ Test Management Results:
 https://dev.azure.com/kavyatech/DemoCalculator/_TestManagement/Runs?runId=30&_a=runCharts
 
 **CI:**
-[![Build Status](https://dev.azure.com/CoryWork/CalculatorProject/_apis/build/status/CoryJ34.Calc?branchName=master)](https://dev.azure.com/CoryWork/CalculatorProject/_build/latest?definitionId=4&branchName=master)(https://dev.azure.com/kavyatech/SimpleCalculator/_build/latest?definitionId=15&branchName=master)
+[![Build Status](https://dev.azure.com/CoryWork/CalculatorProject/_apis/build/status/CoryJ34.Calc?branchName=master)](https://dev.azure.com/CoryWork/CalculatorProject/_build/latest?definitionId=4&branchName=master)
 
 **Quality Gates:**
 [![Quality Gate Status](https://sonarqube-azureappservice6526.azurewebsites.net/api/project_badges/measure?project=SimpleCalculator&metric=alert_status)](https://sonarqube-azureappservice6526.azurewebsites.net/dashboard?id=SimpleCalculator)
