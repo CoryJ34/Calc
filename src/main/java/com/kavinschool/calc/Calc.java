@@ -1,7 +1,8 @@
 package com.kavinschool.calc;
 
 public class Calc {
-	private double x, y;
+	private double x;
+	private double y;
 
 	Calc(double a, double b) {
 		x = a;
